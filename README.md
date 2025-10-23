@@ -1,2 +1,2 @@
 # TP_Git
-une brève description
+une brève description.
